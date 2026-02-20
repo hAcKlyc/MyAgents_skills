@@ -20,7 +20,7 @@ All free for commercial and personal use. No attribution required (but appreciat
 | **Pexels** | pexels.com | Large | Good search filters. Also has video. API available. |
 | **Pixabay** | pixabay.com | Massive | Photos, illustrations, vectors, videos, music, SFX. One-stop shop. |
 | **Kaboompics** | kaboompics.com | Thousands | Lifestyle/interior focus. Color palette provided with each photo. |
-| **Burst** | burst.shopify.com | Thousands | Shopify-powered. E-commerce friendly. |
+| **Shopify Stock Photos** | shopify.com/stock-photos | Thousands | By Shopify. E-commerce friendly. (Formerly Burst.) |
 | **StockSnap** | stocksnap.io | Thousands | Hundreds added weekly. CC0 license. |
 
 **Programmatic access:**
@@ -45,7 +45,6 @@ curl "https://pixabay.com/api/?key=YOUR_KEY&q=forest&image_type=photo"
 | **Pixabay Videos** | pixabay.com/videos | Various | Part of Pixabay ecosystem. |
 | **Mixkit** | mixkit.co | HD/4K | Curated. By Envato. Trendy aesthetic. Also has music + SFX. |
 | **Coverr** | coverr.co | HD | Good for website backgrounds. 7 new videos weekly. |
-| **Life of Vids** | lifeofvids.com | HD | No copyright restrictions. Newer clips weekly. |
 
 ## Stock Audio & Sound Effects
 
@@ -53,7 +52,7 @@ curl "https://pixabay.com/api/?key=YOUR_KEY&q=forest&image_type=photo"
 |------|-----|-------|---------|-------|
 | **Freesound** | freesound.org | 400,000+ | CC (varies per clip) | Collaborative database. 8M+ users. Search by tags/duration/format. |
 | **Zapsplat** | zapsplat.com | 150,000+ | Free (attribution) | Professional quality. MP3 & WAV. Free account required. Updated daily. |
-| **YouTube Audio Library** | studio.youtube.com/channel/UC/music | Thousands | Free for YouTube | No copyright claims. Genre/mood/instrument filters. Requires Google account. |
+| **YouTube Audio Library** | youtube.com/audiolibrary | Thousands | Free for YouTube | No copyright claims. Genre/mood/instrument filters. Requires Google account. |
 | **Mixkit SFX** | mixkit.co/free-sound-effects | Curated | Free | No account needed. High quality. |
 | **Pixabay Audio** | pixabay.com/sound-effects | 120,000+ | Free, no attribution | Part of Pixabay. |
 | **Uppbeat** | uppbeat.io | Curated | Free (3/month) | High quality. Limited free tier. |

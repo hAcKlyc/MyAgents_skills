@@ -39,7 +39,7 @@ Domains change frequently. If a URL is dead, search `[site name] mirror 2026` or
 | **arXiv** | arxiv.org | 2.4M+ | Free, legal | Preprints: physics, math, CS, bio, econ. No paywall. PDF direct download. |
 | **CORE** | core.ac.uk | 402M+ | Free, legal | Aggregates open access papers from repositories worldwide. API available. |
 | **Semantic Scholar** | semanticscholar.org | 200M+ | Free, legal | AI-powered academic search. PDF links when available. API for batch queries. |
-| **PubMed Central** | ncbi.nlm.nih.gov/pmc | 8M+ | Free, legal | Biomedical/life sciences full-text archive. Free access mandated by NIH. |
+| **PubMed Central** | pmc.ncbi.nlm.nih.gov | 8M+ | Free, legal | Biomedical/life sciences full-text archive. Free access mandated by NIH. |
 | **Unpaywall** | unpaywall.org | 30M+ OA articles | Browser extension | Finds legal open-access versions of paywalled papers. Also has API. |
 | **Google Scholar** | scholar.google.com | Index only | Search | Often links to free PDFs. Use `filetype:pdf` in Google for direct hits. |
 | **Connected Papers** | connectedpapers.com | Visual exploration | Search | Builds visual graph of related papers. Great for literature review. |
@@ -69,9 +69,8 @@ Domains change frequently. If a URL is dead, search `[site name] mirror 2026` or
 | Name | URL | What | Notes |
 |------|-----|------|-------|
 | **鸠摩搜书** | jiumodiary.com | Aggregated ebook search engine | Searches multiple sources. Direct download links. Best starting point for Chinese ebooks. |
-| **全国图书馆参考咨询联盟 (UCDRS)** | ucdrs.superlib.net | 360+ library union catalog | Register, search, request via email delivery (free). Massive catalog. |
 | **熊猫搜书** | xmsoushu.com (check current) | Ebook search aggregator | Similar to 鸠摩. Domain may change. |
-| **书格** | new.shuge.org | Chinese classical texts / ancient books | Scanned originals. High-quality digitization. Free. |
+| **书格** | www.shuge.org | Chinese classical texts / ancient books | Scanned originals. High-quality digitization. Free. |
 | **书伴** | bookfere.com | Kindle resources + ebook tools | Calibre guides, format conversion tips, ebook sources list. |
 | **Z-Library** | z-lib.id | Chinese books too | Has significant Chinese-language collection. Same limits as English. |
 

@@ -33,8 +33,6 @@ Alibaba Cloud Drive (阿里云盘) has become the dominant sharing platform due 
 | Name | URL | Notes |
 |------|-----|-------|
 | **猫狸盘搜** | alipansou.com | Most popular Ali pan search. Large index. No mandatory registration. |
-| **奈斯搜索** | niceso.fun | Simple. Ad-light. |
-| **小纸条** | u.gitcafe.net | Community-driven link sharing + search. |
 
 ## Baidu Pan Search (百度网盘搜索)
 
@@ -45,7 +43,7 @@ Baidu Pan is the oldest and most established, but free download speeds are sever
 | **学霸盘** | (search for current domain) | Academic/learning resources focus. Good for textbooks and course materials. |
 | **小白盘** | (search for current domain) | Long-running. Simple interface. |
 
-**Baidu Pan speed workaround:** Use Motrix (motrix.app) or aria2 with browser cookie export to bypass speed throttling on free accounts.
+**Baidu Pan speed workaround:** Use aria2 with browser cookie export to bypass speed throttling on free accounts.
 
 ## Resource Navigation Sites (资源导航)
 

@@ -21,7 +21,7 @@ RARBG closed in 2023. These are the current active alternatives.
 | **YTS** | yts.mx | Movies (small x265 files) | 720p/1080p/2160p. Compact encodes. Great for limited bandwidth. |
 | **1337x** | 1337x.to | General (movies, TV, games, music) | Best all-around torrent site since RARBG's demise. Clean UI. |
 | **TorrentGalaxy** | torrentgalaxy.to | General | Good RARBG replacement. Has IMDB ratings, screenshots. |
-| **EZTV** | eztv.re | TV shows | Dedicated TV tracker. Episode packs and singles. |
+| **EZTV** | eztvx.to | TV shows | Dedicated TV tracker. Episode packs and singles. |
 | **Nyaa** | nyaa.si | Anime, manga, Japanese media | The anime torrent site. Also manga and live-action Japanese content. |
 | **RuTracker** | rutracker.org | General (Russian + international) | Massive catalog. Registration required. Russian interface but has English content. |
 
@@ -32,7 +32,7 @@ Aggregate results across multiple torrent sites.
 | Name | URL | Notes |
 |------|-----|-------|
 | **Snowfl** | snowfl.com | Real-time aggregation. Clean, fast. Shows health/seeds. |
-| **Solid Torrents** | solidtorrents.to | Indexes 30M+ torrents. DHT crawling. No tracking. |
+| **BitSearch** | bitsearch.to | Indexes 46M+ torrents. DHT crawling. No tracking. (Formerly solidtorrents.to.) |
 | **TorrentSeeker** | torrentseeker.com | Google Custom Search-based. Searches multiple trackers. |
 | **BTDigg** | btdig.com | DHT search engine. Finds torrents by content, not trackers. |
 
@@ -42,7 +42,7 @@ No torrent client needed. Files hosted on filehosters (1fichier, Rapidgator, etc
 
 | Name | URL | Focus | Notes |
 |------|-----|-------|-------|
-| **Pahe.in** | pahe.in | Movies & TV (x265 small encodes) | Excellent quality-to-size ratio. Multiple mirrors. |
+| **Pahe** | pahe.ink | Movies & TV (x265 small encodes) | Excellent quality-to-size ratio. Multiple mirrors. |
 | **DDLValley** | ddlvalley.me | Movies, TV, software | Multiple filehost mirrors. |
 | **RleaseBB** | rlsbb.ru | Scene releases | Tracks scene releases with DDL links. |
 
@@ -55,9 +55,7 @@ No torrent client needed. Files hosted on filehosters (1fichier, Rapidgator, etc
 | **SubDL** | subdl.com | 100+ languages | Modern UI. API available. Large collection. |
 | **OpenSubtitles** | opensubtitles.com | 60+ languages | Largest subtitle database. API (requires account). |
 | **射手网 (assrt.net)** | assrt.net | Chinese + English | Shooter subtitle replacement. Community uploads. |
-| **A4k** | a4k.net | Chinese | Chinese subtitle community. Good quality. |
 | **字幕库** | zimuku.org | Chinese + bilingual | Large Chinese subtitle collection. Active community. |
-| **Subscene** | subscene.com | Multi-language | Long-running. Good for Asian language subs. |
 | **ChineseSubFinder** | github.com/ChineseSubFinder | Chinese (automated) | CLI tool. Auto-matches Chinese subtitles to your media library. Integrates with Emby/Jellyfin/Plex. |
 
 ## Chinese Video Resources
@@ -65,7 +63,6 @@ No torrent client needed. Files hosted on filehosters (1fichier, Rapidgator, etc
 | Name | URL | What | Notes |
 |------|-----|------|-------|
 | **BT之家1LOU站** | 1lou.me (check current) | General Chinese torrents | Active community. Movies, TV, anime. |
-| **电影天堂** | dytt8.net (check current) | Chinese movie downloads | Long-running. DDL links. Domain changes. |
 | **音范丝** | yinfans.me | 4K Blu-ray, Hi-Res audio | High-quality encodes. Remux and 4K HDR focus. |
 | **人人影视** | (discontinued) | Was the biggest fan-sub group | Shut down. Legacy torrents still circulate. |
 | **PT sites (private)** | Various | High-quality encodes | HDSKY, M-Team, CHDBits, TTG -- invite only. Best quality but hard to get in. |

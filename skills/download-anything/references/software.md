@@ -89,7 +89,6 @@ No installation required. Run from USB, cloud drive, or any folder.
 | **PortableApps.com** | portableapps.com | 400+ apps | Platform with launcher. Open source SDK. |
 | **Portable Freeware Collection** | portablefreeware.com | Large | Community-curated database. User-tested. |
 | **Portapps** | portapps.io | Growing | Modern approach. Auto-update. GitHub-hosted. |
-| **LiberKey** | liberkey.com | 300+ | French-origin. One-click updates. |
 
 ## Chinese Software Sites
 

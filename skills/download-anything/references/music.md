@@ -19,7 +19,7 @@
 | **Musopen** | musopen.org | Thousands | Public domain | Classical music recordings + sheet music. Professional quality. |
 | **SoundCloud** | soundcloud.com | Massive | Varies | Many artists enable free downloads. Look for "Free Download" button. |
 | **ccMixter** | ccmixter.org | Thousands | CC | Remixes and instrumentals. Free for commercial use with credit. |
-| **YouTube Audio Library** | studio.youtube.com/channel/UC/music | Thousands | Free (YouTube creators) | No copyright claims. Sorted by genre/mood. Requires Google account. |
+| **YouTube Audio Library** | youtube.com/audiolibrary | Thousands | Free (YouTube creators) | No copyright claims. Sorted by genre/mood. Requires Google account. |
 | **Internet Archive Audio** | archive.org/details/audio | Millions | Varies | Live concerts (Grateful Dead, Phish), old radio, public domain. |
 
 ## Download Tools
