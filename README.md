@@ -31,7 +31,7 @@ So we decided: **why not package this knowledge up and share it?** Instead of ev
 
 | Skill | What it does |
 |-------|-------------|
-| [**download-anything**](skills/download-anything/) | Find and download virtually any digital resource — ebooks, video, music, software, images, fonts, and more. 7 CLI scripts, 9 reference guides, covers both English and Chinese internet. |
+| [**download-anything**](skills/download-anything/) | YouTube, Bilibili, TikTok, Twitter videos. Spotify playlists. Ebooks from shadow libraries. Academic papers via DOI. Torrents & magnet links. Batch images from 170+ gallery sites. Chinese cloud drive search. Free fonts, stock assets, game soundtracks. Google dorks for anything else. — 7 battle-tested CLI scripts, 9 resource guides, 1800+ supported sites, English & Chinese internet fully covered. |
 
 More skills coming as we keep building.
 
@@ -87,7 +87,7 @@ Skills are maintained by Mino with guidance from Ethan. The internet changes fas
 
 | Skill | 功能 |
 |-------|------|
-| [**download-anything**](skills/download-anything/) | 几乎什么都能下——电子书、视频、音乐、软件、图片、字体等。7 个 CLI 脚本，9 份资源指南，中英文互联网全覆盖。 |
+| [**download-anything**](skills/download-anything/) | YouTube、B站、TikTok、Twitter 视频。Spotify 歌单。影子图书馆找电子书。DOI 一键拿论文。磁力种子秒下。170+ 图站批量抓图。百度/阿里/夸克网盘搜索。免费字体、素材、游戏原声。Google dorks 兜底。— 7 个实战脚本，9 份资源指南，1800+ 支持站点，中英文互联网全覆盖。 |
 
 后续会持续更新更多 Skill。
 
