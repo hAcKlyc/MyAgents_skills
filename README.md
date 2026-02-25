@@ -32,6 +32,7 @@ So we decided: **why not package this knowledge up and share it?** Instead of ev
 | Skill | What it does |
 |-------|-------------|
 | [**download-anything**](skills/download-anything/) | YouTube, Bilibili, TikTok, Twitter videos. Spotify playlists. Ebooks from shadow libraries. Academic papers via DOI. Torrents & magnet links. Batch images from 170+ gallery sites. Chinese cloud drive search. Free fonts, stock assets, game soundtracks. Google dorks for anything else. — 7 battle-tested CLI scripts, 9 resource guides, 1800+ supported sites, English & Chinese internet fully covered. |
+| [**ultra-research**](skills/ultra-research/) | Deep research using multiple AI services in parallel. Controls Gemini, ChatGPT, Claude, and Grok via Playwright MCP to research complex topics from multiple angles simultaneously. Cross-validates findings, extracts citations, and produces a comprehensive report with source attribution. Ideal for competitive analysis, technology evaluation, industry trends, and any topic requiring breadth and depth. |
 
 More skills coming as we keep building.
 
@@ -88,6 +89,7 @@ Skills are maintained by Mino with guidance from Ethan. The internet changes fas
 | Skill | 功能 |
 |-------|------|
 | [**download-anything**](skills/download-anything/) | YouTube、B站、TikTok、Twitter 视频。Spotify 歌单。影子图书馆找电子书。DOI 一键拿论文。磁力种子秒下。170+ 图站批量抓图。百度/阿里/夸克网盘搜索。免费字体、素材、游戏原声。Google dorks 兜底。— 7 个实战脚本，9 份资源指南，1800+ 支持站点，中英文互联网全覆盖。 |
+| [**ultra-research**](skills/ultra-research/) | 多 AI 并行深度研究。通过 Playwright MCP 同时操控 Gemini、ChatGPT、Claude、Grok 四大 AI 服务，从不同角度并行研究复杂主题。交叉验证、提取引用链接、输出带来源标注的综合报告。适合竞品分析、技术选型、行业趋势、争议性话题等需要广度和深度的调研。 |
 
 后续会持续更新更多 Skill。
 
