@@ -31,8 +31,12 @@
 
 | Skill | 功能 |
 |-------|------|
+| [**task-alignment**](skills/task-alignment/) ⭐ 新 | 把粗略的想法对齐成可派发的任务。和用户深度对话——决定是当场聊完做掉，还是固化成正式任务，产出 alignment.md / task.md / verification.md / progress.md 四份文档落到 `.task/<MMDD_slug>/`。设计哲学：讨论本身就是产出，"想法被讨论后被搁置"也是合法归宿，不强迫每个想法都变成行动。和 task-implement 配对使用。 |
+| [**task-implement**](skills/task-implement/) ⭐ 新 | 让 AI 作为你不在场时的 **UserProxy Agent** 执行长程任务。读取 task-alignment 产出的契约文档，拆解工作分发给子 Agent（树状协作不是 IM 群聊），独立 context 验收（自己绝不验自己），全程维护 progress.md 执行流水。"目标是不变量，计划是可变的。" 适合几小时级别的超长程自主任务交付。 |
 | [**download-anything**](skills/download-anything/) | YouTube、B站、TikTok、Twitter 视频。Spotify 歌单。影子图书馆找电子书。DOI 一键拿论文。磁力种子秒下。170+ 图站批量抓图。百度/阿里/夸克网盘搜索。免费字体、素材、游戏原声。Google dorks 兜底。— 7 个实战脚本，9 份资源指南，1800+ 支持站点，中英文互联网全覆盖。 |
 | [**ultra-research**](skills/ultra-research/) | 多 AI 并行深度研究。通过 Playwright MCP 同时操控 Gemini、ChatGPT、Claude、Grok 四大 AI 服务，从不同角度并行研究复杂主题。交叉验证、提取引用链接、输出带来源标注的综合报告。适合竞品分析、技术选型、行业趋势、争议性话题等需要广度和深度的调研。 |
+
+> **task-alignment + task-implement 是一对**：前者把想法对齐成契约，后者按契约自主执行。两个都装，才是完整的"任务中心"工作流。详见 Ethan 的[公众号文章](https://mp.weixin.qq.com/s/tfWfygaTcEg3tXKipK31dQ)聊设计理念。
 
 后续会持续更新更多 Skill。
 
@@ -48,9 +52,9 @@ cp -r skills/download-anything ~/.claude/skills/download-anything
 ```
 
 每个 Skill 包含：
-- `SKILL.md` — 入口文件，决策树 + 快速命令
-- `scripts/` — 可执行脚本（每个脚本只做一件事，自由组合）
-- `references/` — 按需加载的详细资源指南
+- `SKILL.md` — 入口文件，必备
+- `scripts/`（可选）— 可执行脚本（每个脚本只做一件事，自由组合）
+- `references/`（可选）— 按需加载的详细资源指南
 
 ### 关于 MyAgents
 
@@ -88,8 +92,12 @@ So we decided: **why not package this knowledge up and share it?** Instead of ev
 
 | Skill | What it does |
 |-------|-------------|
+| [**task-alignment**](skills/task-alignment/) ⭐ New | Turn a rough idea into a dispatchable task contract through deep alignment conversation. Co-decides path with the user — act in this session, or freeze as a formal task with four documents (alignment.md / task.md / verification.md / progress.md) under `.task/<MMDD_slug>/`. Design philosophy: discussion itself is an outcome, and "discussed and shelved" is a legitimate ending — no forced funnel from idea to action. Pairs with task-implement. |
+| [**task-implement**](skills/task-implement/) ⭐ New | Run long-horizon tasks as a **UserProxy Agent** — the human's representative when they're not in the room. Reads the contract docs from task-alignment, decomposes work to subagents (tree-shaped collaboration, not IM-style group chat), runs independent verification (never verifies its own work), and maintains progress.md throughout. "The goal is invariant; the plan is flexible." Designed for multi-hour autonomous task delivery. |
 | [**download-anything**](skills/download-anything/) | YouTube, Bilibili, TikTok, Twitter videos. Spotify playlists. Ebooks from shadow libraries. Academic papers via DOI. Torrents & magnet links. Batch images from 170+ gallery sites. Chinese cloud drive search. Free fonts, stock assets, game soundtracks. Google dorks for anything else. — 7 battle-tested CLI scripts, 9 resource guides, 1800+ supported sites, English & Chinese internet fully covered. |
 | [**ultra-research**](skills/ultra-research/) | Deep research using multiple AI services in parallel. Controls Gemini, ChatGPT, Claude, and Grok via Playwright MCP to research complex topics from multiple angles simultaneously. Cross-validates findings, extracts citations, and produces a comprehensive report with source attribution. Ideal for competitive analysis, technology evaluation, industry trends, and any topic requiring breadth and depth. |
+
+> **task-alignment + task-implement are a pair**: the former turns ideas into contracts, the latter executes contracts autonomously. Install both for the full "task center" workflow. See Ethan's [essay](https://mp.weixin.qq.com/s/tfWfygaTcEg3tXKipK31dQ) for the design philosophy behind them.
 
 More skills coming as we keep building.
 
@@ -105,9 +113,9 @@ cp -r skills/download-anything ~/.claude/skills/download-anything
 ```
 
 Each skill contains:
-- `SKILL.md` — Entry point with decision tree and quick-start commands
-- `scripts/` — Executable CLI scripts (one function each, composable)
-- `references/` — Detailed resource guides loaded on demand
+- `SKILL.md` — Entry point (required)
+- `scripts/` (optional) — Executable CLI scripts (one function each, composable)
+- `references/` (optional) — Detailed resource guides loaded on demand
 
 ### About MyAgents
 
